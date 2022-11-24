@@ -1,0 +1,7 @@
+{
+  "pluginsFile": "cypress/plugins/index.js",
+  "testFiles": "**/*.feature",
+  "env":{
+        "testurl":"https://www.facebook.com/"
+  }
+}
